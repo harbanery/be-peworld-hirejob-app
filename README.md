@@ -25,6 +25,6 @@ Access the API documentation for the **Peworld** project, also created by [him](
 
 1. Front-End Project Repository
 
-   If you want to view my **Peworld** project, feel free to check my front-end project.
+   If you want to view **Peworld** project, feel free to check my front-end project.
 
    [Front-End Project Repository Link](https://github.com/harbanery/peworld-hirejob-app)
