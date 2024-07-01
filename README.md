@@ -87,6 +87,74 @@ Ensure you have the following installed on your local machine:
 
 To use this project, follow the instructions below for understanding the project structure and how to use the provided API documentation.
 
+### Project Structure
+
+```
+be-peworld-hirejob-app/
+├── node_modules/
+├── public/
+│   └── peworld.png
+├── src/
+│   ├── config/
+│   │   └── db.js
+│   ├── controllers/
+│   │   ├── auth/
+│   │   |   ├── index.js
+|   |   |   └── request_model.js
+│   │   ├── experience/
+│   │   |   ├── index.js
+|   |   |   └── request_model.js
+│   │   ├── hire/
+│   │   |   ├── index.js
+|   |   |   └── request_model.js
+│   │   ├── portfolio/
+│   │   |   ├── index.js
+|   |   |   └── request_model.js
+│   │   ├── recruiter/
+│   │   |   ├── index.js
+|   |   |   └── request_model.js
+│   │   ├── skill/
+│   │   |   ├── index.js
+|   |   |   └── request_model.js
+│   │   ├── workers/
+│   │   |   ├── index.js
+|   |   |   └── request_model.js
+│   │   └── upload.js
+│   ├── helpers/
+│   │   ├── auth.js
+│   │   └── common.js
+│   ├── middlewares/
+│   │   ├── auth.js
+│   │   └── upload.js
+│   ├── models/
+│   │   ├── experience.js
+│   │   ├── hire.js
+│   │   ├── portfolio.js
+│   │   ├── recruiter.js
+│   │   ├── skill.js
+│   │   ├── users.js
+│   │   └── workers.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   ├── experience.js
+│   │   ├── hire.js
+│   │   ├── index.js
+│   │   ├── portfolio.js
+│   │   ├── recruiter.js
+│   │   ├── skill.js
+│   │   ├── upload.js
+│   │   └── workers.js
+│   └── utils/
+│       └── cloudinary.js
+├── .gitignore
+├── README.md
+├── index.js
+├── package-lock.json
+├── package.json
+├── vercel.json
+└── yarn.lock
+```
+
 ### Documentation
 
 Access the API documentation for the **Peworld** project, also created by [him](https://github.com/muhammadrisano). Use this documentation to test endpoints and understand the structure and functionality of the available APIs in this project.
