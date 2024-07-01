@@ -54,7 +54,7 @@ Ensure you have the following installed on your local machine:
 - npm
 
   ```sh
-     npm install npm@latest -g
+  npm install npm@latest -g
   ```
 
 ### Installation
@@ -62,19 +62,25 @@ Ensure you have the following installed on your local machine:
 1. Clone Repo
 
    ```sh
-     git clone https://github.com/harbanery/be-peworld-hirejob-app.git
+   git clone https://github.com/harbanery/be-peworld-hirejob-app.git
    ```
 
-2. Install NPM packages
+2. Go to folder directory
 
-   ```sh
-     npm install
+   ```bash
+   cd be-peworld-hirejob-app
    ```
 
-3. To start the development server:
+3. Install NPM packages
 
    ```sh
-      npm run dev
+   npm install
+   ```
+
+4. To start the development server:
+
+   ```sh
+   npm run dev
    ```
 
 ## Usage
@@ -107,7 +113,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Contact
 
-If you have any questions or inquiries regarding this project, feel free to contact me at ryusuf05@gmail.com or [muhammadrisano](https://github.com/muhammadrisano) for back-end issues.
+If you have any questions or inquiries regarding this back-end project, feel free to contact him at [Github](https://github.com/muhammadrisano) or [LinkedIn](https://www.linkedin.com/in/muhammad-risano-80847b152/). Or if you just want to get in touch with me, feel free to contact me at ryusuf05@gmail.com or [LinkedIn](https://www.linkedin.com/in/raihan-yusuf/)
 
 ## Acknowledgements
 
