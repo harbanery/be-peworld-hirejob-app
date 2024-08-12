@@ -41,7 +41,7 @@ This back-end project for **Peworld** was developed by [muhammadrisano](https://
 
 - [Express.js](https://expressjs.com/)
 - [Node.js](https://nodejs.org/en)
-- [MongoDB](https://www.mongodb.com/)
+- [PostgreSQL](https://www.postgresql.org/)
 
 ## Getting Started
 
@@ -159,7 +159,7 @@ be-peworld-hirejob-app/
 
 Access the API documentation for the **Peworld** project, also created by [him](https://github.com/muhammadrisano). Use this documentation to test endpoints and understand the structure and functionality of the available APIs in this project.
 
-[![Peworld API Postman Documentation](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/7675329/2s9YysDhDY#d67edcdf-e1ef-468b-9877-2c3e930c82a9)
+[![Peworld API Postman Documentation](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/36623326/2sA3s4kqFe)
 
 ### Project Related
 
